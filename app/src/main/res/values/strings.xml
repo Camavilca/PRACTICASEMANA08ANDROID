@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Practica</string>
+    <string name="descripcion">hola esta es un descripcion de las notas que se cargar por el usurio</string>
+</resources>
